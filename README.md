@@ -4,7 +4,6 @@ Projeto desenvolvido durante o 2º termo do curso de Análise e Desenvolvimento 
 ## 🚀 Tecnologias Utilizadas
 
 * **Front-end:** HTML + CSS
-* **Back-end:** *(Não implementado no projeto)*
 
 ## 👥 Equipe
 
